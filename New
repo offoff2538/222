@@ -1,0 +1,8 @@
+1.sudo apt-get update
+2.sudo apt-get install php libapache2-mod-php -y
+3.sudo apt-get install apache2 -y
+ <?php phpinfo();?>
+ index.php
+4.git clone https://github.com/adafruit/Adafruit_Python_DHT.git
+5.cd Adafruit_Python_DHT
+6.sudo python setup.py install
